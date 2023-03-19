@@ -6,10 +6,10 @@ The aim of the analysis was to examine the weather information for Oahu city. Sp
 ## Results
 The analysis on the two businesses concentrates on temperature readings from six distinct weather stations located on Oahu Island, Hawaii, during the months of June and December. The initial two charts display the statistical information for these two months.
 
-* June Statistics 
+### June Temps. Statistics 
 <img width="187" alt="Screen Shot 2023-03-19 at 6 54 01 PM" src="https://user-images.githubusercontent.com/107570913/226214829-bf03e683-a24d-4923-86cd-f8a2c6665bb9.png">
 
-* Decemeber Statistics 
+### Decemeber Temps. Statistics 
 <img width="187" alt="Screen Shot 2023-03-19 at 6 53 17 PM" src="https://user-images.githubusercontent.com/107570913/226214800-f25cfe16-30c2-4eb1-a752-e8356318d60c.png">
 
 ## Summary 
